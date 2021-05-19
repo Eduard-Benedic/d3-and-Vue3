@@ -1,0 +1,181 @@
+export default [
+  {
+    "paidSearchCampaign": "Campaign A",
+    "source": "Google",
+    "attributedRevenue": "15385",
+    "spend": "8681",
+    "attributedROAS": "0.772311396",
+    "platformRevenue": "11157",
+    "platformConversions": 20.79,
+  },
+  {
+    "paidSearchCampaign": "Campaign B",
+    "source": "Google",
+    "attributedRevenue": "71591",
+    "spend": "2190",
+    "attributedROAS": "31.68352225",
+    "platformRevenue": "53223",
+    "platformConversions": 106.95,
+  },
+  {
+    "paidSearchCampaign": "Campaign C",
+    "source": "Google",
+    "attributedRevenue": "371",
+    "attributedROAS": "-0.716177608",
+    "platformRevenue": "829",
+    "platformConversions": 1.44
+  },
+  {
+    "paidSearchCampaign": "Campaign D",
+    "source": "Google",
+    "attributedRevenue": "1307",
+    "spend": "1280:",
+    "attributedROAS": "0.021171813",
+    "platformRevenue": "2870",
+    "platformConversions": 7,
+  },
+  {
+    "paidSearchCampaign": "Campaign E",
+    "source": "Google",
+    "attributedRevenue": "583",
+    "spend": "610",
+    "attributedROAS": "-0.044012964",
+    "platformRevenue": "2690",
+    "platformConversions": 8,
+  },
+  {
+    "paidSearchCampaign": "Campaign F",
+    "source": "Google",
+    "attributedRevenue": "2467",
+    "spend": "1371",
+    "attributedROAS": "5.136975073",
+    "platformRevenue": "1371",
+    "platformConversions": 2.62,
+  },
+  {
+    "paidSearchCampaign": "Campaign G",
+    "source": "Google",
+    "attributedRevenue": "355",
+    "spend": "375",
+    "attributedROAS": "-0.054011477",
+    "platformRevenue": "2938",
+    "platformConversions": 30.32
+  },
+  {
+    "paidSearchCampaign": "Campaign H",
+    "source": "Google",
+    "attributedRevenue": "648",
+    "spend": "166",
+    "attributedROAS": "2.894386869",
+    "platformRevenue": "9328",
+    "platformConversions": 45
+  },
+  {
+    "paidSearchCampaign": "Campaign I",
+    "source": "Bing",
+    "attributedRevenue": "1100",
+    "spend": "143",
+    "attributedROAS": "6.683034379",
+    "platformRevenue": "0",
+    "platformConversions": 0,
+  },
+  {
+    "paidSearchCampaign": "Campaign J",
+    "source": "Bing",
+    "attributedRevenue": "842",
+    "spend": "130",
+    "attributedROAS": "5.461891346",
+    "platformRevenue": "5034",
+    "platformConversions": 34.53
+  },
+  {
+    "paidSearchCampaign": "Campaign K",
+    "source": "Bing",
+    "attributedRevenue": "1792",
+    "spend": "117",
+    "attributedROAS": "14.31037942",
+    "platformRevenue": "8939",
+    "platformConversions": 39.20
+  },
+  {
+    "paidSearchCampaign": "Campaign L",
+    "source": "Bing",
+    "attributedRevenue": "635",
+    "spend": "81",
+    "attributedROAS": "6.873403794",
+    "platformRevenue": "4034",
+    "platformConversions": 64.23
+  },
+  {
+    "paidSearchCampaign": "Campaign M",
+    "source": "Bing",
+    "attributedRevenue": "524",
+    "spend": "80",
+    "attributedROAS": "5.583997485",
+    "platformRevenue": "2943",
+    "platformConversions": 24.42
+  },
+  {
+    "paidSearchCampaign": "Campaign N",
+    "source": "Bing",
+    "attributedRevenue": "267",
+    "spend": "77",
+    "attributedROAS": "2.460727584",
+    "platformRevenue": "24",
+    "platformConversions": 1,
+  },
+  {
+    "paidSearchCampaign": "Campaign O",
+    "source": "Bing",
+    "attributedRevenue": "425",
+    "spend": "67",
+    "attributedROAS": "5.383148333",
+    "platformRevenue": "48",
+    "platformConversions": 2,
+  },
+  {
+    "paidSearchCampaign": "Campaign P",
+    "source": "Bing",
+    "attributedRevenue": "245",
+    "spend": "49",
+    "attributedROAS": "4.003708097",
+    "platformRevenue": "7493",
+    "platformConversions": 35.51
+  },
+  {
+    "paidSearchCampaign": "Campaign Q",
+    "source": "Other",
+    "attributedRevenue": "6578",
+    "spend": "4054",
+    "attributedROAS": "0.622713909",
+    "platformRevenue": "9321",
+    "platformConversions": 20.32
+  },
+  {
+    "paidSearchCampaign": "Campaign R",
+    "source": "Other",
+    "attributedRevenue": "5215",
+    "spend": "1243",
+    "attributedROAS": "3.195717912",
+    "platformRevenue": "7403",
+    "platformConversions": 84.52
+  },
+  {
+    "paidSearchCampaign": "Campaign S",
+    "source": "Other",
+    "attributedRevenue": "334",
+    "spend": "1653",
+    "attributedROAS": "-0.798121844",
+    "platformRevenue": "2040",
+    "platformConversions": 81.87
+  },
+  {
+    "paidSearchCampaign": "Campaign T",
+    "source": "Other",
+    "attributedRevenue": "251",
+    "spend": "954",
+    "attributedROAS": "-0.737127145",
+    "platformRevenue": "8340",
+    "platformConversions": 92.23
+  }
+]

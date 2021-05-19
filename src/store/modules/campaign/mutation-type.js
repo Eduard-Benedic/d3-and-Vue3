@@ -1,0 +1,1 @@
+export const SET_CAMPAIGN_DATA = 'SET_CAMPAIGN_DATA'

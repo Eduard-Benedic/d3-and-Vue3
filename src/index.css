@@ -1,0 +1,18 @@
+@tailwind base;
+
+* {
+  box-sizing: border-box;
+}
+@tailwind components;
+
+.btn {
+  @apply w-full flex justify-center py-2 px-4 border border-transparent rounded-full shadow-sm text-sm font-medium text-white  focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500;
+}
+
+
+@tailwind utilities;
+
+.brand-gradient {
+  background-image: linear-gradient(120deg,rgba(237,190,2,.272) 0,#fff 30%,rgba(3,156,90,.589) 90%,rgba(237,190,2,.156));
+}
+
